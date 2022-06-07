@@ -1,8 +1,5 @@
 import matemáticas
 
-a = 5
-b = 5
-
 nuevaSuma = matemáticas.suma(6, 6)
 print(nuevaSuma)
 
