@@ -1,0 +1,12 @@
+{
+  "name": "tarea-1",
+  "version": "1.0.0",
+  "description": "Esta es la primera tarea del curso de Js",
+  "main": "index.js",
+  "scripts": {
+    "tarea-1": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Flores",
+  "license": "ISC"
+}
